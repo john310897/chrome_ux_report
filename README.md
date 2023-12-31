@@ -14,4 +14,4 @@ npm install
 
 npm start
 
-
+Make sure to add http://localhost:5000 when running locally at src/services/ChromeUXReportService.js at API_URL
